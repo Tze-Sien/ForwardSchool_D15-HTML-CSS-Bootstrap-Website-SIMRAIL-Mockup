@@ -1,0 +1,70 @@
+header {
+    background: url('https://sim-rail.com/templates/simrail-home/images/slider.jpg');
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+
+.h-90vh{
+    height: 90vh;
+}
+
+.h-10vh{
+    height: 10vh;
+}
+
+.background{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.background-1 {
+    background: url('https://sim-rail.com/templates/simrail-home/images/unternehmen-back.jpg');
+}
+
+.background-2 {
+    background: url('https://sim-rail.com/templates/simrail-home/images/produkte-back.jpg');
+}
+
+.background-3 {
+    background: red;
+}
+
+.background-4 {
+    background: #333;
+}
+
+.background-5 {
+   background: #273e45 url('https://sim-rail.com/templates/simrail-home/images/partner-back.jpg') no-repeat;
+    background-size: cover;
+}
+
+section{
+    height: 100vh;
+}
+
+.half-top-image {
+    background: url('https://sim-rail.com/templates/simrail-home/images/service-back1.jpg');
+    background-size: cover;
+}
+
+.half-img-btm {
+    background: url('https://sim-rail.com/templates/simrail-home/images/service-back2.jpg');
+    background-size: cover;
+    margin-top: -1rem;
+}
+
+#icon {
+    cursor: pointer;
+}
+
+#icon:hover{
+    background-color: white;
+    color: #333 !important;
+}
+#map {
+    height: 100%;
+    width: 100%;
+    background: grey;
+}
